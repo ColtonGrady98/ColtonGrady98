@@ -1,6 +1,6 @@
 # 💻 Colton Grady  
 **Full Stack Engineer | AI Enthusiast | Lifelong Learner**  
-🌍 Based in Santa Cruz, CA | Currently building impactful tech at startups  
+🌍 Based in the San Francisco Bay Area | Currently building impactful tech at startups  
 
 ---
 
